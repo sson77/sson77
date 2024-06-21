@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://github.com/sson77/sson77/blob/main/sson.PNG" />
+  <img src="https://github.com/sson77/sson77/blob/main/sson2.PNG" />
 </div>
 
 <!--내용 부분-->
