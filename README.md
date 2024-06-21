@@ -79,4 +79,4 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sson77&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 </div> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sson77&layout=compact)](https://github.com/delay-100/github-readme-stats)
+
