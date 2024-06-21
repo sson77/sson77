@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/sson77/sson77/sson.png" />
+  <img src="https://github.com/sson77/sson77/blob/main/sson.PNG" />
 </div>
 <!--
 **sson77/sson77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
